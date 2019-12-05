@@ -71,3 +71,11 @@ Open the file config/routes.rb and uncomment the line:
 `root "welcome#index"`
 
 Now when navigating to http://localhost:3000 we can see the message "Hello World from Rails" in the browser.
+
+#Sources
+* https://www.bogotobogo.com/RubyOnRails/RubyOnRails_HelloWorld_Rails.php
+* https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?utm_source=Syndicode%20blog&utm_medium=blogpost&utm_campaign=Syndicode%20news&utm_term=Ruby%20for%20beginners
+* https://www.codingdojo.com/blog/ruby-on-rails-examples
+* https://guides.rubyonrails.org/v3.2.13/getting_started.html#getting-up-and-running-quickly-with-scaffolding
+* https://rubygems.org/gems/rails/versions
+* 
