@@ -75,6 +75,9 @@ Open the file config/routes.rb and uncomment the line:
 Now when navigating to http://localhost:3000 we can see the message "Hello World from Rails" in the browser.  
 [This tutorial is mostly taken from the first source]
 
+# Link to Presentation
+https://docs.google.com/presentation/d/1J5tUliwIPnKRF8nJvXisHKVG58XbFhD8SPEMwjlXEGo/edit?usp=sharing
+
 # Sources
 * https://www.bogotobogo.com/RubyOnRails/RubyOnRails_HelloWorld_Rails.php
 * https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?utm_source=Syndicode%20blog&utm_medium=blogpost&utm_campaign=Syndicode%20news&utm_term=Ruby%20for%20beginners
