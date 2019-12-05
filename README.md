@@ -72,8 +72,8 @@ Next step is to tell Ruby on Rails when to show the Hello World message and wher
 Open the file config/routes.rb and uncomment the line:
 `root "welcome#index"`
 
-Now when navigating to http://localhost:3000 we can see the message "Hello World from Rails" in the browser.
-[This tutorial is mostly taken from first source]
+Now when navigating to http://localhost:3000 we can see the message "Hello World from Rails" in the browser.  
+[This tutorial is mostly taken from the first source]
 
 # Sources
 * https://www.bogotobogo.com/RubyOnRails/RubyOnRails_HelloWorld_Rails.php
