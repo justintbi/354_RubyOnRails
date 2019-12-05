@@ -1,16 +1,41 @@
 # **Ruby On Rails**
 
 ## *Why did I choose to research Ruby on Rails?*
+* Ruby has always been a programming language that I had heard about but did not have much experience in so I wanted to learn more about.
+* I thought that it would be interesting to focus more on a framework for a language rather than an actual new language.
+* I am interested in building websites and Ruby on Rails seemed like an interesting introduction to learning more about the process.
 
 ## *A Brief History of Ruby on Rails*
+* Ruby on Rails was created in the year 2004 by a man named David Heinemeier Hansson in order to aid in the development process for another project that he was working on. 
+* In 2005, Hansson released his project as open source and received the “Hacker of the Year” award from Google and O’Reilly. 
+* Ruby on Rails has come a long way since then (363 versions since July 25, 2009) and is now in Version 6.0 with plenty of users.     
 
 ## *What kinds of tasks is Ruby on Rails particularly suitable for?*
-
+The main tasks that Ruby on Rails is suited for is the development of website applications. Ruby on Rails was built for this main purpose and it excels at its job.
+    (See 'Some Getting Started Steps' Below)
+    
 ## *What are some examples of where Ruby on Rails is used successfully?*
+* Github
+* Twitch
+* SoundCloud
+* Kickstarter
+* Hulu
+* Square
+* Urban Dictionary
 
 ## *Why should one consider Ruby on Rails for website development?*
+* One of the main features that is intriguing about Ruby on Rails is that it is open source, meaning there is no licensing costs and that anybody can work on improving it. 
+* There  is a clear desire in programmers’ minds to make Ruby on Rails have a sense of “convention over configuration”.
+  * Convention over configuration is one of the principles that shapes the way Ruby on Rails operates by making it so developers do not have to deal with the unimportant minutiae of coding. 
+  * Website developers using Ruby on Rails only have to deal with the overhead while behind the scenes actions are taking place.
 
 ## *Some features I found particularly interesting:*
+* As a framework, Ruby on Rails serves as a collection of codes and tools that gives its users a mostly self documenting structure to organize their code. 
+  * This structure helps to keep code organized and maintain a standard that is  sure to increase efficiency. 
+* Ruby on Rails is fundamentally a framework for building web applications that uses the Ruby programming language as its base.
+  * Many people who prefer coding in Ruby would find Ruby on Rails to be the best choice for website development.
+* There is a vast collection of open source code available to use by any user.
+  * Available open source code also allows for more efficiency and better management of one’s time.
 
 #### *Some Getting Started Steps (A Guide for Saying 'Hello Word' with Ruby on Rails:*
 After downloading the necessary Ruby on Rails downloads:
