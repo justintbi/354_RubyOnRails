@@ -40,3 +40,9 @@ Delete all of the existing code in the file, and replace it with the following s
 `<h1>Hello World from Rails!</h1>`
 
 Now the controller and the view are set.
+Next step is to tell Ruby on Rails when to show the Hello World message and where to find it.
+
+Open the file config/routes.rb and uncomment the line:
+`root "welcome#index"`
+
+Now when navigating to http://localhost:3000 we can see the message "Hello World from Rails" in the browser.
