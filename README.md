@@ -49,7 +49,7 @@ In this directory, start a web server by lauching WEBrick:
 
 Can know navigate to http://localhost:3000 to view the server.
 
-To get "Hello World" from Rails, we need to create at minimum a controller and a view.
+To get "Hello World" from Rails, a controller and a view are needed.
 
 1. A controller is needed to receive requests for the application.
 1. Routing decides which controller receives which requests. Often, there is more than one route to each controller, and different routes can be served by different actions.
@@ -73,6 +73,7 @@ Open the file config/routes.rb and uncomment the line:
 `root "welcome#index"`
 
 Now when navigating to http://localhost:3000 we can see the message "Hello World from Rails" in the browser.
+[This tutorial is mostly taken from first source]
 
 # Sources
 * https://www.bogotobogo.com/RubyOnRails/RubyOnRails_HelloWorld_Rails.php
