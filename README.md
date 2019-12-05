@@ -37,7 +37,9 @@ The main tasks that Ruby on Rails is suited for is the development of website ap
 * There is a vast collection of open source code available to use by any user.
   * Available open source code also allows for more efficiency and better management of one’s time.
 
-#### *Some Getting Started Steps (A Guide for Saying 'Hello Word' with Ruby on Rails:*
+
+
+### *Some Getting Started Steps (A Guide for Saying 'Hello Word' with Ruby on Rails:*
 After downloading the necessary Ruby on Rails downloads:
 Create a new application called hello world.  
 `rails new hello_world`
