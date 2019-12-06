@@ -75,7 +75,7 @@ Now when navigating to http://localhost:3000 we can see the message "Hello World
 
 ## **Some references Explaining Convention over Configuration:**  
 * An explaination of the Ruby on Rails doctrine that includes Convention over Configuration by the creator David Heinemeier Hansson: https://rubyonrails.org/doctrine/
-* A blog post by a CEO/sofware engineer that explains Convention over Configuration and explains its benefit: https://facilethings.com/blog/en/convention-over-configuration
+* A blog post by a CEO/sofware engineer that explains Convention over Configuration and its benefit: https://facilethings.com/blog/en/convention-over-configuration
 * Examples of how Convention over Configuration makes developing easier in Ruby on Rails: https://riptutorial.com/ruby-on-rails/example/3933/convention-over-configuration
 
 # Link to Presentation
