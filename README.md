@@ -37,8 +37,6 @@ The main tasks that Ruby on Rails is suited for is the development of website ap
 * There is a vast collection of open source code available to use by any user.
   * Available open source code also allows for more efficiency and better management of one’s time.
 
-
-
 ## **Some Getting Started Steps (A Guide for Saying 'Hello Word' with Ruby on Rails:**
 After downloading the necessary Ruby on Rails downloads:
 Create a new application called hello world.  
@@ -73,7 +71,12 @@ Open the file config/routes.rb and uncomment the line:
 `root "welcome#index"`
 
 Now when navigating to http://localhost:3000 we can see the message "Hello World from Rails" in the browser.  
-[This tutorial is mostly taken from the first source]
+[This tutorial is mostly taken from the first source under 'Sources']
+
+## **Some references Describing Convention over Configuration:**  
+* An explaination of the Ruby on Rails doctrine that includes Convention over Configuration by the creator David Heinemeier Hansson: https://rubyonrails.org/doctrine/
+* A blog post by a CEO/sofware engineer that explains Convention over Configuration and explains its benefit: https://facilethings.com/blog/en/convention-over-configuration
+* Examples of how Convention over Configuration makes developing easier in Ruby on Rails: https://riptutorial.com/ruby-on-rails/example/3933/convention-over-configuration
 
 # Link to Presentation
 https://docs.google.com/presentation/d/1J5tUliwIPnKRF8nJvXisHKVG58XbFhD8SPEMwjlXEGo/edit?usp=sharing
